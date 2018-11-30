@@ -1,0 +1,7 @@
+.idea
+node1/data/*
+node2/data/*
+node2/data/*
+node1/logs/*
+node2/logs/*
+node3/logs/*
